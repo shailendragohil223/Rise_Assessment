@@ -1,0 +1,54 @@
+run:
+How Many student? 
+5
+Name: 
+jay
+Gender: 
+male
+CPI: 
+8.50
+Height: 
+178
+Name: 
+Shailendra
+Gender: 
+male
+CPI: 
+9.5
+Height: 
+179
+Name: 
+Bavik
+Gender: 
+male
+CPI: 
+8.81
+Height: 
+175
+Name: 
+Aesha
+Gender: 
+female
+CPI: 
+7.7
+Height: 
+168
+Name: 
+Mrunali
+Gender: 
+female
+CPI: 
+5.1
+Height: 
+165
+
+Average CPI: 7.9220000000000015
+
+Highest Male scorer: Student{name=Shailendra, gender=MALE, cpi=9.5, height=179.0}
+Highest Female scorer: Student{name=Aesha, gender=FEMALE, cpi=7.7, height=168.0}
+
+-- Sorting based on height Pending -- 
+
+Student CPIs whoes name starts with "S": 
+Name: Shailendra CPI: 9.5
+BUILD SUCCESSFUL (total time: 1 minute 57 seconds)
